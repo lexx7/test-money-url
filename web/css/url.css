@@ -1,0 +1,10 @@
+.text-modal {
+    position: relative;
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: auto;
+    display: block;
+    clear: both;
+    max-height: 500px;
+    transform: translate(0, 0);
+}
